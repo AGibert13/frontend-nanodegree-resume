@@ -146,6 +146,7 @@ a {
   flex-direction: column;
   flex-wrap: nowrap;
   padding: 10px;
+  width: 75%;
 }
 
 .center-content {
@@ -165,6 +166,7 @@ ul {
 
 img {
   padding: 10px;
+  width: 30%;
 }
 
 span {
